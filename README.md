@@ -1,4 +1,4 @@
-## Geethapriya
+# Geethapriya
 
 To become a Knowledgeable and highly skilled professional,
 looking for an organization that can recognize and utilize my
