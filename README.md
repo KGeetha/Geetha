@@ -2,8 +2,8 @@
 
 To become a Knowledgeable and highly skilled professional,
 looking for an organization that can recognize and utilize my
-potential.
-- **Experience**
+potential. 
+### Experience
 Oct2014-June2016 :Junior Assistant in Sea Import,ZEE INDIA LOGISTICS SERVICES LTD,
 Engaged in Job File Creation,Customer Interaction,Manifest Split,Billing.
   - **Tracking** ,Analyzing and planning the most appropriate route for a shipment, taking account of the
@@ -21,7 +21,7 @@ Engaged in Job File Creation,Customer Interaction,Manifest Split,Billing.
   reporting officials wih our record and To understand the business from different perspectives, as
   well as the technology side of what can be effectively used to improve the business.
   
-- **Education**
+### Education
 
   2010–2014 **Bachelor of Engineering** ,GKMCET, Chennai,GPA – 6.7 Specialized in Electronics and Communication.
 
@@ -29,21 +29,20 @@ Engaged in Job File Creation,Customer Interaction,Manifest Split,Billing.
 
   2008-SSLC, St.Anne’s Matric Hr Sec School, Chennai,Percentage – 84 First Class distinction
 
-- **Extracurricular activities and Awards**
+### Extracurricular activities and Awards
 
   - 2007 - Won **Gold Medal** for commendable performance in Avantika TalentSearch English Essay Competition at District Level.
   - 2007 - Senior Grade in Typewriting, English conducted by Government technical examination.
   - 2007 -Secured first class in National LevelEnglish Talent Quest examinationbyShakespeare Institute of English Studies.
 
-- **Courses Completed**
+### Courses Completed
 
   - 2007 **Diploma in Computer Application** ,*Best Computer Education*.
   A course on Office tools like word, power point, etc
   - 2012 *Inplanttraining*, **Focus Tech Media**, Chennai, VLSI - Chip manufacturing.One week Training in their chip manufacturing unit
 
-- **Interests**
+### Interests
 
   - Gardening
   - Cooking
   - Mehandi Drawing
-  
