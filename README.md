@@ -4,8 +4,7 @@ To become a Knowledgeable and highly skilled professional,
 looking for an organization that can recognize and utilize my
 potential. 
 ### Experience
-Oct2014-June2016 :Junior Assistant in Sea Import,ZEE INDIA LOGISTICS SERVICES LTD,
-Engaged in Job File Creation,Customer Interaction,Manifest Split,Billing.
+Oct 2014 - June 2016: Junior Assistant in Sea Import, `ZEE INDIA LOGISTICS SERVICES LTD`, engaged in Job File Creation,Customer Interaction, Manifest Split, Billing.
   - **Tracking** ,Analyzing and planning the most appropriate route for a shipment, taking account of the
   nature and property of the goods, cost, transit time and security;
   - Utilizing e-commerce, internet technology and satellite systems to enable real-time tracking of goods.
